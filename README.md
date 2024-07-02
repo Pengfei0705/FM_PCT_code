@@ -1,6 +1,6 @@
 # How to use FM-PCT code
 
-# 1. Download three files
+# 1. Download the files
 # 2. Prepare your raw data
 # 3. Load your raw data
 
