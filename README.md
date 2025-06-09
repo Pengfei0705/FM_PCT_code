@@ -12,3 +12,5 @@ There are several functions in this App. We have three FM-PCT codes:
 The reason why we set 2D-filter algorithms is the tomograms are sometimes affected by camera errors or other errors and appearing wrong colormap. Therefore, 2D-filter algorithms can effectively solve this problem.
 Calculate the depth silce if you pre-known the thermal diffusivity of materials and frame rate of camera. For "Calculate the depth slice in time domain", you just need to load your data and click it without any processing. For "Calculate the depth slice in frequency domain", please use it after you click the FM-PCT buttons.
 Finally, export your data using "Export tomograms". Please use other 3D visualized software to observe your results. We recommend [3D slicer](https://www.slicer.org) and "3D viewer" in [ImageJ](https://imagej.net/ij/).
+
+Please cite this paper [Frequency multiplexed photothermal correlation tomography for non-destructive evaluation of manufactured materials](https://iopscience.iop.org/article/10.1088/2631-7990/ada837/meta).
